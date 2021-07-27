@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raj2ot
+- 👋 Hi, I’m Raj Tulsiyani
 - 👀 I’m interested in learning new things everyday
 - 🌱 I’m currently learning Data Science
 - 📫 Mail ID : rajtulsiyani007@gmail.com
